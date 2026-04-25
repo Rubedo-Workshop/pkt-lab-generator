@@ -1,0 +1,51 @@
+[
+  {
+    "dev1": "R1",
+    "port1": "GigabitEthernet0/0",
+    "dev2": "R2",
+    "port2": "GigabitEthernet0/0",
+    "cable_type": "eCrossOver"
+  },
+  {
+    "dev1": "R1",
+    "port1": "GigabitEthernet0/1",
+    "dev2": "SW1",
+    "port2": "GigabitEthernet0/1",
+    "cable_type": "eStraightThrough"
+  },
+  {
+    "dev1": "R2",
+    "port1": "GigabitEthernet0/1",
+    "dev2": "SW2",
+    "port2": "GigabitEthernet0/1",
+    "cable_type": "eStraightThrough"
+  },
+  {
+    "dev1": "SW1",
+    "port1": "FastEthernet0/1",
+    "dev2": "PC1",
+    "port2": "FastEthernet0",
+    "cable_type": "eStraightThrough"
+  },
+  {
+    "dev1": "SW1",
+    "port1": "FastEthernet0/2",
+    "dev2": "PC2",
+    "port2": "FastEthernet0",
+    "cable_type": "eStraightThrough"
+  },
+  {
+    "dev1": "SW2",
+    "port1": "FastEthernet0/1",
+    "dev2": "PC3",
+    "port2": "FastEthernet0",
+    "cable_type": "eStraightThrough"
+  },
+  {
+    "dev1": "SW2",
+    "port1": "FastEthernet0/2",
+    "dev2": "PC4",
+    "port2": "FastEthernet0",
+    "cable_type": "eStraightThrough"
+  }
+]

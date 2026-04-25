@@ -1,0 +1,38 @@
+[
+  {
+    "name": "R1",
+    "device_type": "router",
+    "model": "2911"
+  },
+  {
+    "name": "R2",
+    "device_type": "router",
+    "model": "2911"
+  },
+  {
+    "name": "SW1",
+    "device_type": "switch",
+    "model": "2960-24TT"
+  },
+  {
+    "name": "SW2",
+    "device_type": "switch",
+    "model": "2960-24TT"
+  },
+  {
+    "name": "PC1",
+    "device_type": "pc"
+  },
+  {
+    "name": "PC2",
+    "device_type": "pc"
+  },
+  {
+    "name": "PC3",
+    "device_type": "pc"
+  },
+  {
+    "name": "PC4",
+    "device_type": "pc"
+  }
+]

@@ -1,0 +1,28 @@
+# Generated output files
+*.pkt
+*.pka
+*.xml
+!tracketpacin/test.xml
+!tracketpacin/emptysavefile.xml
+!base_topologies/*.xml
+
+# Development notes
+FIXED.md
+FINAL_FIX.md
+READY.md
+XML_METHOD.md
+QUICK_START.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Intermediate working files
+tracketpacin/decoded_test.xml
+tracketpacin/ospf_*.xml
+tracketpacin/static_*.xml
+tracketpacin/eigrp_*.xml
+tracketpacin/test.pkt
